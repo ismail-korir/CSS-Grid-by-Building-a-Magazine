@@ -6,11 +6,7 @@ A magazine-style website built using HTML5 and CSS3 grid layout.
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
